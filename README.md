@@ -1,4 +1,6 @@
-### Hi there 👋
+### E ai? Beleza? 👋
+
+🤖 Em busca constante de aprendizado! 📖 
 
 <!--
 **gabrielmprata/gabrielmprata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
