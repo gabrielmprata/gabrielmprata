@@ -14,6 +14,7 @@ Em busca constante de aprendizado! 📖
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmprata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
+## 👨‍💻 Conhecimentos:  
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/> 
@@ -29,7 +30,7 @@ Em busca constante de aprendizado! 📖
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gabrielpraj)
+☕[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gabrielpraj)☕
 
 
 
