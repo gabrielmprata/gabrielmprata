@@ -1,19 +1,24 @@
-### E ai DEVs? Beleza? 👋
+<h1 align="left">Gabriel Prata</h1>
+</br>
+</br>
+## E ai DEVs? Beleza? 👋
 
 Em busca constante de aprendizado! 📖 
->
->
+</br>
+</br>
 ## 📚 Atualmente focado em:
 >
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="40" height="40"/>
->
+</br>
+</br>
 ## 📊 Estatísticas GitHub
 <div>
 <a href="https://github.com/gabrielmprata">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmprata&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmprata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-
+<br></br>
+  
 ## 👨‍💻 Conhecimentos:  
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
