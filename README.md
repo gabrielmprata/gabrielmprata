@@ -3,7 +3,7 @@
 </br>
 <font  size=5><b>E ai DEVs? Beleza? 👋</b></font>
 
-Em busca constante de aprendizado! 📖 
+Em busca constante de aprendizado!! 📖 
 </br>
 </br>
 ## 📚 Atualmente focado em:
