@@ -1,11 +1,16 @@
 <h1 align="left">Gabriel Prata</h1>
-</br>
-</br>
 <font  size=5><b>E ai DEVs? Beleza? 👋</b></font>
+</br>
 
+Atuo na área de TI há **22 anos**, 18 deles com **Data Science e Advanced Analytics** no mercado de Telecomunicações.
+Analisando e interpretando grandes volumes de dados, transformando-os em informações úteis para a tomada de decisões estratégicas.
+>
 Em busca constante de aprendizado!! 📖 
-</br>
-</br>
+
+🚀 **Próximos passos:** Evoluir na minha carreira, sendo capaz de criar modelos preditivos
+
+</br></br>
+
 ## 📚 Atualmente focado em:
 >
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="40" height="40"/>
