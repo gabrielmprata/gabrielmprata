@@ -7,7 +7,7 @@ Analisando e interpretando grandes volumes de dados, transformando-os em informa
 >
 Em busca constante de aprendizado!! 📖 
 
-🚀 **Próximos passos:** Evoluir na minha carreira, sendo capaz de criar modelos preditivos
+🚀 **Próximos passos:** Evoluir na minha carreira, sendo capaz de criar modelos preditivos.
 
 </br></br>
 
