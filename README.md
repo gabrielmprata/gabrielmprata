@@ -30,8 +30,75 @@ gabriel = {
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="40" height="40"/>
 <img loading="lazy" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="40" height="40"/>
-</br>
-</br>
+
+---
+## 🚀 Projetos em Destaque
+
+### 📡 Mercado de Banda Larga Fixa no Brasil — ANATEL 2025
+
+> Dashboard analítico sobre os **55,4 milhões de acessos** de Banda Larga Fixa registrados pela ANATEL em 2025.
+
+![Banda Larga Demo](https://github.com/gabrielmprata/anatel_banda_larga_fixa/raw/main/assets/demo.gif)
+
+| Tecnologia | Descrição |
+|---|---|
+| Power BI + DAX | Modelagem Star Schema, KPIs executivos, market share dinâmico |
+| Python | Pré-processamento e análise exploratória |
+| Estatística | Z-Score, média móvel, tendência linear, forecast temporal |
+| Geoespacial | Mapa do Brasil por UF com análise regional |
+
+**Destaques:**
+- 🔵 79% dos acessos são **fibra óptica** — análise detalhada por operadora
+- 📊 Market share com agrupamento **Top 12** e detecção de anomalias
+- 📈 Forecast conservador, híbrido e ensemble com erro percentual
+- 🗺️ Distribuição regional por estado e faixa de velocidade
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github)](https://github.com/gabrielmprata/anatel_banda_larga_fixa)
+[![Power BI Demo](https://img.shields.io/badge/Power%20BI-Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDNjYjdmMzItOGZkNy00NWI0LTk5NmQtZDhmMGRjZWZlYjNiIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+---
+### 👮 Anuário de Segurança Pública — Estado do Rio de Janeiro 2025
+
+> Solução analítica para monitorar indicadores de criminalidade e atividade policial, com **série histórica de 2003 a 2025**.
+
+| Tecnologia | Descrição |
+|---|---|
+| Power BI + DAX | Dashboards com drill-through por RISP, delegacia e município |
+| Python | ETL e tratamento dos dados do ISP-RJ |
+| Geoespacial | Mapas customizados por RISP e municípios do RJ |
+| Estatística | Taxa por 10 mil hab., variação YoY, MoM e gráfico de Pareto |
+
+**Destaques:**
+- 📅 Série histórica de **22 anos** (2003–2025)
+- 🗺️ Distribuição por RISP, município e delegacia
+- 📉 Análise de homicídios, roubos, letalidade violenta e atividade policial
+- ⚖️ Dados oficiais do **Instituto de Segurança Pública do RJ**
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github)](https://github.com/gabrielmprata/seguranca_publica_pwrbi)
+[![Power BI Demo](https://img.shields.io/badge/Power%20BI-Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZTcwNWI0NzUtZmNkNi00ZGQzLTkxYzAtMjIxNzBkYzBjOGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+---
+### 👶 Como os Brasileiros Chegam ao Mundo — SINASC 2023
+
+> Dashboard interativo em **Python + Streamlit** analisando o Sistema de Informações sobre Nascidos Vivos. Em 2023: **2,53 milhões de nascimentos** — 4 bebês por minuto.
+
+| Tecnologia | Descrição |
+|---|---|
+| Python + Pandas | Processamento do dataset SINASC (dados abertos Gov BR) |
+| Plotly + Streamlit | Visualizações interativas e deploy como web app |
+| Estatística | Análise demográfica, regional e socioeconômica |
+
+**Destaques:**
+- 📉 5ª queda consecutiva de nascimentos desde 2019
+- 👦👧 51,2% meninos vs 48,8% meninas — padrão consistente desde 2000
+- 🕐 Padrão de nascimentos por **dia da semana e hora do dia**
+- 🌎 Análise por região, estado e faixa etária das mães
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github)](https://github.com/gabrielmprata/nascidos_vivos)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://nascidos-vivos.streamlit.app/)
+
+---
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
