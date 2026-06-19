@@ -120,14 +120,39 @@ gabriel = {
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-## 📊 Estatísticas GitHub
+---
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gabrielmprata">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmprata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmprata&layout=compact&langs_count=7&theme=dark"/>
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmprata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=38bdf8&icon_color=2563eb&text_color=94a3b8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmprata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=38bdf8&text_color=94a3b8)
+
+</div>
+
+---
+
+## 🗂️ Áreas de Expertise
+
+| Área | Descrição |
+|---|---|
+| 📡 **Telecom Analytics** | 18 anos de mercado — market share, churn, net-add, KPIs ANATEL |
+| 📊 **Business Intelligence** | Transformando dados brutos em inteligência estratégica. |
+| 🔬 **Estatística Aplicada** | Z-Score, forecast, anomalias, média móvel, tendência |
+| 🗺️ **Análise Geoespacial** | Mapas regionais, distribuição territorial |
+| 🎨 **UX para BI** | Prototipagem no Figma, dashboards centrados no usuário |
+| 🐍 **Python Data Apps** | ETL, Streamlit, Plotly — da análise ao deploy |
+
+---
+
+<div align="center">
+
+*"Dados não mentem — quando bem interpretados."*
+
+☕[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gabrielpraj)☕
 </div>
   
 
 
-☕[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gabrielpraj)☕
+
