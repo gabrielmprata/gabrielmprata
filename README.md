@@ -18,10 +18,10 @@ Atuo na área de TI há mais de **20 anos**, sendo **19 deles dedicados a Busine
 ```python
 gabriel = {
     "localização"  : "Rio de Janeiro, Brasil 🇧🇷",
-    "experiência"  : "22 anos em TI | 18 em Data Science",
+    "experiência"  : "20+ anos em TI | 19 em Business Intelligence e Advanced Analytics",
     "setor"        : "Telecomunicações · Saúde · Segurança Pública",
     "foco_atual"   : ["Power BI Avançado", "Python Analytics", "Storytelling com Dados","Predictive Analytics"],
-    "ferramentas"  : ["Power BI", "Python", "DAX", "SQL", "Streamlit", "Plotly"],
+    "ferramentas"  : ["Python", "Power BI", "DAX", "SQL", "Streamlit", "Plotly"],
 }
 ```
 
