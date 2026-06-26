@@ -149,7 +149,7 @@ gabriel = {
 
 <div align="center">
 
-*"Dados não mentem — quando bem interpretados."*
+*"Dados não mentem quando bem interpretados."*
 
 ☕[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gabrielpraj)☕
 </div>
