@@ -85,7 +85,7 @@ gabriel = {
 
 | Tecnologia | Descrição |
 |---|---|
-| Python + Pandas | Processamento do dataset SINASC (dados abertos Gov BR) |
+| Python + Pandas | Processamento do dataset SINASC |
 | Plotly + Streamlit | Visualizações interativas e deploy como web app |
 | Estatística | Análise demográfica, regional e socioeconômica |
 
