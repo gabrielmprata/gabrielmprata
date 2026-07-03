@@ -22,7 +22,7 @@ gabriel = {
     "experiência"  : "20+ anos em TI | 19 em Business Intelligence e Advanced Analytics",
     "setor"        : "Telecomunicações · Saúde · Segurança Pública",
     "foco_atual"   : ["Power BI Avançado", "Python Analytics", "Storytelling com Dados","Predictive Analytics"],
-    "ferramentas"  : ["Python", "Power BI", "DAX", "SQL", "Streamlit", "Plotly"],
+    "ferramentas"  : ["Python", "Power BI", "DAX", "SQL", "Streamlit", "Plotly"]
 }
 ```
 
