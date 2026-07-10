@@ -62,6 +62,8 @@ gabriel = {
 
 > Solução analítica para monitorar indicadores de criminalidade e atividade policial, com **série histórica de 2003 a 2025**.
 
+![Seguranca Publica](https://github.com/gabrielmprata/seguranca_publica_pwrbi/raw/main/images/seg_3_crime.jpg)
+
 | Tecnologia | Descrição |
 |---|---|
 | Power BI + DAX | Dashboards com drill-through por RISP, delegacia e município |
