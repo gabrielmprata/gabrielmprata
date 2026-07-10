@@ -85,6 +85,8 @@ gabriel = {
 
 > Dashboard interativo em **Python + Streamlit** analisando o Sistema de Informações sobre Nascidos Vivos. Em 2023: **2,53 milhões de nascimentos** — 4 bebês por minuto.
 
+<img width="1532" height="1085" alt="nascidos_vivos" src="https://github.com/user-attachments/assets/cd7dbf2d-7db4-4f1f-8640-9b02439ba62e" />
+
 | Tecnologia | Descrição |
 |---|---|
 | Python + Pandas | Processamento do dataset SINASC |
