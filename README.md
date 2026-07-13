@@ -142,7 +142,7 @@ gabriel = {
 
 | Área | Descrição |
 |---|---|
-| 📡 **Telecom Analytics** | 19 anos de mercado — market share, churn, net-add, KPIs e ANATEL |
+| 📡 **Telecom** | 19 anos de mercado — Faturamento, tráfego, cobrança, receita, market share, churn, net-add, KPIs e ANATEL |
 | 📊 **Business Intelligence** | Transformando dados brutos em inteligência estratégica. |
 | 🔬 **Estatística Aplicada** | Z-Score, forecast, anomalias, média móvel, tendência |
 | 🗺️ **Análise Geoespacial** | Mapas regionais, distribuição territorial |
