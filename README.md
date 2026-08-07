@@ -35,7 +35,7 @@ gabriel = {
 ---
 ## 🚀 Projetos em Destaque
 
-### 📡 Mercado de Banda Larga Fixa no Brasil — ANATEL 2025
+### 📡 Mercado de Banda Larga Fixa no Brasil
 
 > Dashboard analítico sobre os **55,4 milhões de acessos** de Banda Larga Fixa registrados pela ANATEL em 2025.
 
