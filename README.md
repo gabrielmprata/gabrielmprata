@@ -95,7 +95,7 @@ gabriel = {
 
 **Destaques:**
 - 📉 5ª queda consecutiva de nascimentos desde 2019
-- 👦👧 51,2% meninos vs 48,8% meninas — padrão consistente desde 2000
+- 👦👧 51,2% meninos vs 48,8% meninas, padrão consistente desde 2000
 - 🕐 Padrão de nascimentos por **dia da semana e hora do dia**
 - 🌎 Análise por região, estado e faixa etária das mães
 
